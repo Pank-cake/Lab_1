@@ -88,4 +88,3 @@
 
 ### Тестирование
 
-![](C:\Users\Надежда\source\repos\ConsoleApp3\ConsoleApp3)
